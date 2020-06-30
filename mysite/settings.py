@@ -25,7 +25,7 @@ SECRET_KEY = 'mi&%4pd4$$gnutap+3a3=1wzcbnd9kctt8m5!+%w&bs$v8m)av'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://iyonisssio.herokuapp.com/']
 
 
 # Application definition
